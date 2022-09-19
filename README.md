@@ -1,4 +1,17 @@
-First changed the title from website to Horiseon.
-My semantics might be a bit off I did try to combine to limit the ammount of div tags and different named classes.
-Also made specific tags to control different aspects.
-First challenge can be found at https://github.com/sorryz23/code-refactor.git .
+Description
+Made HTML follow better semantics.
+Made the flow of the website more presentable.
+Added alt attributes to img.
+Changed the title element from website, to Horieson.
+Usage
+Credits
+License
+Installation
+N/A
+
+Usage
+To make the website more readable by following semantics and making dev tools more presentable.
+
+Credits
+License
+Please refer to the LICENSE in the repo.
